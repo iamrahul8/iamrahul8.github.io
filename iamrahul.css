@@ -1,4 +1,4 @@
-/* Created by Rahul */
+ /* Created by Rahul */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
@@ -35,7 +35,7 @@
             position: fixed;
             z-index: 10000;
             background-attachment:fixed ;
-            background-position: center;
+            background-position: center;
             background-size:cover;
             background-repeat:no-repeat ;
             top: 0;
@@ -121,6 +121,7 @@
         }
         .about .content_box{
             background: #162c3b;
+            background-size:100% 100%;
             padding: 100px;
             width: 50%;
         }
@@ -394,7 +395,9 @@ progress {
 
     .background{
         background: linear-gradient(145deg, #a6d7f5, #66b3e3) !important;
-    }
+        background-size:100% 100%;
+ }
+
 
     .form{
         border: none;
@@ -492,7 +495,7 @@ progress {
         max-width: 20px;
     }
 
-    @media (max-width: 1250px) {
+    @media (max-width: 1980px) {
         .testimonials .content_box{
             padding: 60px 40px;
             max-width: 550px;
