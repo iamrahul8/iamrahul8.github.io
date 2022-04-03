@@ -7,7 +7,7 @@ My Portfolio/Resume website
 3. Simple and Fast website User Interface.
 
 ### Website UI Gallary
-#### About Tab
+#### Main Tab
 ![About Tab]()
 
 #### Skills Tab
