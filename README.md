@@ -27,7 +27,7 @@ This present small work is small example of my skills.
 ![Contact Tab](https://github.com/iamrahul8/iamrahul8.github.io/blob/main/contactme.png)
 
 ### Demo
-For Demo of this template you can visit [https://iamrahul8.github.io]
+For Demo of this template you can visit: [https://iamrahul8.github.io]
 
 ### Contributing
 Any and all contributions, issues, features and tips are welcome.
